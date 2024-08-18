@@ -1,0 +1,6 @@
+name: BarrierFillGenerator
+version: '1.0-SNAPSHOT'
+main: io.github.aplini.barrierFillGenerator.BarrierFillGenerator
+api-version: '1.19'
+authors: [ ApliNi ]
+website: https://github.com/aplini/
